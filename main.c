@@ -14,7 +14,6 @@ int actbals;
 int actnb;
 int mobile;
 char new_pasword[50];
-
 };
 
 
